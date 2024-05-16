@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 20px 15px;
+    border-bottom: 1px solid #fff;
+}
+
+header > nav {
+    display: flex;
+    width: 280px;
+    justify-content: space-between;
+}
+
+nav>a {
+    border: 2px solid white;
+    padding: 14px 16px;
+    border-radius: 15px;
+    transition: 0.5s ;
+}
+
+
+nav>a:hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s ;
+    scale: 1.1;
+}
+
+.content {
+    margin: -130px auto 0 ;
+    overflow-y: auto;
+    border: 1px solid #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    width: 700px;
+    height: 500px;
+}
