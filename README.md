@@ -6,7 +6,7 @@ This application displays quotes. Quote data can be added, edited and deleted. T
   git init
 ```
 ```
-  git clone https://github.com/b1adeDEV/QuotesPage
+  git clone https://github.com/b1adeDEV/QuotesPages
 ```
 ```
   npm install
